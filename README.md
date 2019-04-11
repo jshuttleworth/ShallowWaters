@@ -5,4 +5,4 @@ Highly simplified for frictionless channel flow, user can define channel geometr
 
 Can be used to develop more complex environmental fluid dynamics models
 
-Please contact Joe Shuttleworth - shuttleworthjd@cardiff.ac.uk for any help
+Please contact Joe Shuttleworth - shuttleworthjd@cardiff.ac.uk for any questions
