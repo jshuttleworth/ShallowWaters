@@ -4,3 +4,5 @@ Python repository of shallow water flow codes for open channels through applicat
 Highly simplified for frictionless channel flow, user can define channel geometry etc
 
 Can be used to develop more complex environmental fluid dynamics models
+
+Please contact Joe Shuttleworth - shuttleworthjd@cardiff.ac.uk for any help
